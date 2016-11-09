@@ -5,7 +5,7 @@ include(CTest)
 enable_testing()
 
 add_executable(NeuronNetwork main.cpp NeuronNetwork.cpp Neuron.cpp Layer.cpp Net.cpp)
-# add_executable(NeuronNetwork main.cpp)
+# add_executable(NeuronNetwork main.cpp) 
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

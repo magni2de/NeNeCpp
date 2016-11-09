@@ -2,7 +2,7 @@
 
     Класс Neuron
 
-    Версия 0.0
+    Версия 0.0 
 
     Автор Олег Троицкий
 
@@ -53,7 +53,7 @@ void Neuron::printStatistic() const
 
 }
 
-
+    
 
 // ------------------------------------------------------------------------------------------------------------ Конструктор
 // NeuronsLink::NeuronsLink(const Neuron::Neuron* mst, const Neuron::Neuron* slv)

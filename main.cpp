@@ -70,6 +70,9 @@ int main(int argc, const char * argv[]) {
 
     // layer1.printStatistic();
     // layer2.printStatistic();
+    // 
+    // 
+    
 
     net1.printStatistic();
 
